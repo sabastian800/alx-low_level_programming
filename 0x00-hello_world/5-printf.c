@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A program that line with betty
+ * main - A program that involves betty
  * Return: 0
  */
 int main(void)
