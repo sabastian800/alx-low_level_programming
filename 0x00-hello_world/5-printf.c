@@ -1,4 +1,4 @@
-#include <stdio. h>
+#include <stdio.h>
 /**
  * main - A program that line with betty
  * Return: 0
